@@ -6,7 +6,7 @@ async def get_ip_address_from_discord_id(discord_id: str) -> str:
     Function to retrieve the IP address associated with a Discord user ID.
 
     Parameters:
-    - discord_id: str
+    - discord_id: 968298807957815316
         The Discord user ID for which the IP address is to be fetched.
 
     Returns:
